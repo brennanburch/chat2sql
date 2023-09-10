@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&display=swap');
+.drawer{
+    font-family: 'Karla', sans-serif !important; 
+    font-size: 1em !important;
+}
+
+.header {
+    font-family: 'Karla', sans-serif !important; 
+    font-size: 2em !important;
+}
+.link{
+    color: #fff !important;
+}
